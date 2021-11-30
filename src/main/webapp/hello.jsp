@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	hello jsp
+	hello git!!
+	checkout new branch
 </body>
 </html>
